@@ -1,0 +1,14 @@
+package ramu;
+
+public class main {
+	
+public static void main(String[] args) {
+	int x = 15;
+	int y = 40;
+	if (x < y) {
+		System.out.println("x is less than y");
+	}
+
+	
+}
+}
